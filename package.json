@@ -1,0 +1,22 @@
+{
+  "name": "clone-all-repos",
+  "version": "1.0.0",
+  "description": "Simple node script to clone all repos of a github organization. just supply github access token, and organization name",
+  "main": "main.js",
+  "dependencies": {
+    "request": "^2.72.0",
+    "request-debug": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clone",
+    "all",
+    "github",
+    "repos"
+  ],
+  "author": "Tapan Shah",
+  "license": "ISC"
+}
